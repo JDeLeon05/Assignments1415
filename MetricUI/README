@@ -1,1 +1,5 @@
-
+Using this code is quite simple:
+  1. Enter the value you'd like to convert into the text field
+  2. Press the radio button labled 'switch direction' if you'd like to convert in the opposite direction
+      (Ex: pressing 'switch direction' then pressing 'Miles & Kilometers' will convert from kilometers to miles)
+  3. Press 1 of the 4 buttons with metrics on their labels and the program should tell you the conversion
